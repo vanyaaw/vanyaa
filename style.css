@@ -1,0 +1,16 @@
+body{
+    background-image: url(background5.jpg);
+}
+
+nav{
+    background-color: #000000;
+}
+
+.judul{
+    padding-top: 2rem;
+}
+
+img:hover{
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}
